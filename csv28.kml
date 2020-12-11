@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>夭壽股</name>
+	<Placemark>
+		<name>你好</name>
+		<Point>
+			<coordinates>120.70565,24.44328,133.4185793057076</coordinates>
+		</Point>
+	</Placemark>
+   <Placemark>
+       <name>苗栗縣通霄鎮大坪頂段323</name>
+       <description>苗栗縣通霄鎮大坪頂段323</description>
+       <Point>
+           <coordinates>120.70565,24.443279999999998,</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>

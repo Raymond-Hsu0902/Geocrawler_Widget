@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <Placemark>
+       <name>苗栗縣通霄鎮大坪頂段140-30</name>
+       <description>苗栗縣通霄鎮大坪頂段140-30</description>
+       <Point>
+           <coordinates>120.70499,24.44724,</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>苗栗縣通霄鎮大坪頂段323</name>
+       <description>苗栗縣通霄鎮大坪頂段323</description>
+       <Point>
+           <coordinates>120.70565,24.443279999999998,</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>
