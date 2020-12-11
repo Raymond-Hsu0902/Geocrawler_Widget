@@ -1,4 +1,1 @@
-web:
-run
-this
-thing
+web: voila --port=$PORT --no-browser Geocrawler_widget.ipynb
